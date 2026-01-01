@@ -14,6 +14,10 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
@@ -92,6 +96,30 @@
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "量子资源站"
+    },
+    "xlzy": {
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "name": "新浪资源"
+    },
+    "foxzy": {
+      "api": "https://api.foxzyapi.com/api.php/provide/vod/",
+      "name": "FOX资源"
+    },
+    "pkzy": {
+      "api": "https://pianku.wang/api.php/provide/vod/",
+      "name": "片库"
+    },
+    "yqdm": {
+      "api": "http://47.97.68.224/api.php/provide/vod/",
+      "name": "一拳动漫" 
+    },
+    "rrzy": {
+      "api": "http://www.rrzyw.cc/api.php/provide/vod/",
+      "name": "人人资源"
+    },
+    "cgqys": {
+      "api":"http://shdmv.com/api.php/provide/vod/",
+      "name": "超高清影视"
     }
   }
 }
